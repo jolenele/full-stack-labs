@@ -2,10 +2,7 @@
 
 # Lab Exercises
 ---
-
-> This is my root directory for my course work
 > Here you will find all of my labs
-> Exercises which have been created week-to-week
 
 Week # | Repo Link 
 --- | ---
